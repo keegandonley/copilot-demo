@@ -1,0 +1,6 @@
+{
+  "files": ["demo-sentences.ts"],
+  "compilerOptions": {
+    "target": "es2016"
+  }
+}
