@@ -6,3 +6,6 @@ js-sentences:
 
 ts-sentences:
 	@npx ts-node demo-sentences.ts 
+
+py-sentences:
+	@python demo-sentences.py
