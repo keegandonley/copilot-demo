@@ -1,3 +1,5 @@
+// Use a custom brush here and ask copilot to make find run in constant time
+
 const sentencesToIndex = [
   "The quick brown fox jumps over the lazy dog.",
   "JavaScript is a powerful scripting language.",

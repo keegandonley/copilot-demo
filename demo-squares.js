@@ -1,3 +1,5 @@
+// Use the debugging brush here
+
 const inputArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 // There is a bug in this function, and it does not return the correct output.

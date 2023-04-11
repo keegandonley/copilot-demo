@@ -1,3 +1,5 @@
+# Use brunch "debug" to add debugging statements
+
 sentences_to_index = [
     "The quick brown fox jumps over the lazy dog.",
     "JavaScript is a powerful scripting language.",
